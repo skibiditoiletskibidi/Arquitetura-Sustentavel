@@ -7,5 +7,4 @@ window.addEventListener('beforeinstallprompt', event => {
 });
  
 function showInstallPrompt() {
-  // Exibir um botão ou mensagem para instalar a PWA
 }
